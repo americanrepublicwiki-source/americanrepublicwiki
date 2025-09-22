@@ -1,0 +1,153 @@
+/* Custom Callouts */
+
+
+.two-columns {
+    column-count: var(--column-count, 2);
+}
+
+.callout[data-callout="note-progress-update"] {
+  --callout-color: 186, 85, 211; /* Medium Orchid - a distinct purple */
+  --callout-icon: lucide-activity; /* Suggests ongoing or dynamic progress */
+}
+
+.callout[data-callout="note-definition"] {
+  --callout-color: 50, 168, 82;
+  --callout-icon: lucide-book-open;
+}
+
+.callout[data-callout="note-example"] {
+  --callout-color: 240, 240, 240;
+  --callout-icon: lucide-file-text;
+}
+
+.callout[data-callout="note-info"] {
+  --callout-color: 230, 230, 250;
+  --callout-icon: lucide-info;
+}
+
+.callout[data-callout="note-quote"] {
+  --callout-color: 245, 245, 245;
+  --callout-icon: lucide-quote;
+}
+
+.callout[data-callout="note-self"] {
+  --callout-color: 255, 182, 193; /* Light Pink for personal thoughts */
+  --callout-icon: lucide-heart;
+}
+
+.callout[data-callout="note-followup"] {
+  --callout-color: 255, 223, 186; /* Light Peach for follow-ups */
+  --callout-icon: lucide-clock;
+}
+
+.callout[data-callout="note-question"] {
+  --callout-color: 173, 216, 230; /* Light Blue for questions */
+  --callout-icon: lucide-help-circle;
+}
+
+.callout[data-callout="logic-contradiction"] {
+  --callout-color: 255, 0, 0;
+  --callout-icon: lucide-x-circle;
+}
+
+.callout[data-callout="logic-lie"] {
+  --callout-color: 255, 69, 0;
+  --callout-icon: lucide-alert-triangle;
+}
+
+.callout[data-callout="logic-assumption"] {
+  --callout-color: 255, 215, 0;
+  --callout-icon: lucide-help-circle;
+}
+
+.callout[data-callout="logic-inference"] {
+  --callout-color: 0, 128, 0;
+  --callout-icon: lucide-trending-up;
+}
+
+.callout[data-callout="logic-premise"] {
+  --callout-color: 70, 130, 180;
+  --callout-icon: lucide-layers;
+}
+
+.callout[data-callout="logic-conclusion"] {
+  --callout-color: 0, 0, 255;
+  --callout-icon: lucide-check-circle;
+}
+
+.callout[data-callout="logic-fallacy-adhominem"] {
+  --callout-color: 255, 99, 71;
+  --callout-icon: lucide-user-x;
+}
+
+.callout[data-callout="logic-fallacy-strawman"] {
+  --callout-color: 255, 140, 0;
+  --callout-icon: lucide-wind;
+}
+
+.callout[data-callout="logic-fallacy-appealtoauthority"] {
+  --callout-color: 218, 165, 32;
+  --callout-icon: lucide-award;
+}
+
+.callout[data-callout="logic-fallacy-slipperyslope"] {
+  --callout-color: 0, 191, 255;
+  --callout-icon: lucide-chevrons-down;
+}
+
+.callout[data-callout="logic-fallacy-circularreasoning"] {
+  --callout-color: 138, 43, 226;
+  --callout-icon: lucide-repeat;
+}
+
+.callout[data-callout="logic-fallacy-hastygeneralization"] {
+  --callout-color: 255, 20, 147;
+  --callout-icon: lucide-fast-forward;
+}
+
+.callout[data-callout="logic-fallacy-falsedichotomy"] {
+  --callout-color: 255, 105, 180;
+  --callout-icon: lucide-divide-circle;
+}
+
+.callout[data-callout="logic-fallacy-posthoc"] {
+  --callout-color: 75, 0, 130;
+  --callout-icon: lucide-clock;
+}
+
+.callout[data-callout="logic-fallacy-redherring"] {
+  --callout-color: 220, 20, 60;
+  --callout-icon: lucide-fish;
+}
+
+.callout[data-callout="logic-fallacy-appealtoemotion"] {
+  --callout-color: 255, 182, 193; /* Light Pink for emotional appeal */
+  --callout-icon: lucide-smile; /* Heart icon for emotional emphasis */
+}
+
+
+.callout[data-callout="logic-struct-claim"] {
+  --callout-color: 0, 255, 127;
+  --callout-icon: lucide-message-square;
+}
+
+.callout[data-callout="logic-struct-counterclaim"] {
+  --callout-color: 32, 178, 170;
+  --callout-icon: lucide-message-square-x;
+}
+
+.callout[data-callout="logic-struct-evidence"] {
+  --callout-color: 34, 139, 34;
+  --callout-icon: lucide-file-check;
+}
+
+.callout[data-callout="logic-struct-refutation"] {
+  --callout-color: 255, 0, 255;
+  --callout-icon: lucide-shield-off;
+}
+
+.callout[data-callout="logic-struct-support"] {
+  --callout-color: 0, 255, 255;
+  --callout-icon: lucide-thumbs-up;
+}
+
