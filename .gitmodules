@@ -1,0 +1,5 @@
+[submodule "quartz"]
+    path = quartz
+    url = git clone https://github.com/jackyzha0/quartz.git
+    branch = main
+    ignore = all

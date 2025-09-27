@@ -1,0 +1,19 @@
+# version: "3.8"
+services:
+  build:
+    build:
+      context: .
+    image: quartz_image
+    restart: "no"
+  docs:
+    depends_on:
+      - build
+    image: quartz_image
+    ports:
+      - "8080:8080"
+    volumes:
+      - .:/home/node/quartz/content 
+    stdin_open: true
+    tty: true
+    restart: "no"
+    command: ["npx", "quartz", "build", "--serve", "--port", "8080"]
