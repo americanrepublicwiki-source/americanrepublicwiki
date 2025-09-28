@@ -14,4 +14,5 @@ EXPOSE 8080
 WORKDIR /home/node/
 COPY --from=builder /home/node/ /home/node/
 RUN rm -rf /home/node/quartz/content 
+RUN mkdir -p /tmp/quartz
 WORKDIR /home/node/quartz

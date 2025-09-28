@@ -5,6 +5,14 @@ services:
       context: .
     image: quartz_image
     restart: "no"
+  build_docs:
+    depends_on:
+      - build
+    volumes:
+      - .:/home/node/quartz/content 
+      - /tmp/quartz:/tmp/quartz:rw
+    image: quartz_image
+    command: ["npx", "quartz", "build", "--output", "/tmp/quartz/public"]
   docs:
     depends_on:
       - build
