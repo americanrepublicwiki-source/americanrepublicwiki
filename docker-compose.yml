@@ -11,8 +11,6 @@ services:
       - build
     volumes:
       - .:/home/node/quartz/content 
-      - .quartz/quartz.config.ts:/home/node/quartz/quartz.config.ts
-      - .quartz/quartz.layout.ts:/home/node/quartz/quartz.layout.ts
       - /tmp/quartz:/tmp/quartz:rw
     image: quartz_image
     command: ["npx", "quartz", "build", "--output", "/tmp/quartz/public"]
@@ -24,8 +22,8 @@ services:
       - "8080:8080"
     volumes:
       - .:/home/node/quartz/content 
-      - .quartz/quartz.config.ts:/home/node/quartz/quartz.config.ts
-      - .quartz/quartz.layout.ts:/home/node/quartz/quartz.layout.ts
+      - ./quartz/quartz.config.ts:/home/node/quartz/quartz.config.ts
+      - ./quartz/quartz.layout.ts:/home/node/quartz/quartz.layout.ts
     stdin_open: true
     tty: true
     restart: "no"

@@ -1,7 +1,7 @@
 FROM alpine/git as git
 
 WORKDIR /home/node/
-RUN git clone https://github.com/jackyzha0/quartz.git
+RUN git clone https://github.com/americanrepublicwiki-source/quartz.git
 
 FROM node:22-slim AS builder
 COPY --from=git /home/node/ /home/node/

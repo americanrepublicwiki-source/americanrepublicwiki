@@ -1,5 +1,5 @@
 [submodule "quartz"]
     path = quartz
-    url = git clone https://github.com/jackyzha0/quartz.git
+    url = americanrepublicwiki:americanrepublicwiki-source/quartz.git
     branch = main
     ignore = all
