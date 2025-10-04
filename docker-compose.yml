@@ -3,6 +3,7 @@ services:
   build:
     build:
       context: .
+      dockerfile: .quartz/Dockerfile
     image: quartz_image
     restart: "no"
   build_docs:
