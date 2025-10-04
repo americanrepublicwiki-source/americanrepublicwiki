@@ -22,7 +22,7 @@ jobs:
         with:
           fetch-depth: 0 # Fetch all history for git info
           # Quartz fork pulls the americanrepublicwiki main.
-          url: https://github.com/americanrepublicwiki-source/quartz.git
+          repository: americanrepublicwiki-source/quartz
           recursive: true
       - name: Docker build
         run: |
