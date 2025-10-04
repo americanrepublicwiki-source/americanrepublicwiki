@@ -1,5 +1,0 @@
-[submodule "quartz"]
-    path = quartz
-    url = americanrepublicwiki:americanrepublicwiki-source/quartz.git
-    branch = main
-    ignore = all
