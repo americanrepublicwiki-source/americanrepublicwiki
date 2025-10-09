@@ -1,3 +1,6 @@
+%%
+Copyright (c) 2025 American Republic Wiki
+%%
 
 ```dataviewjs
 const slugify = str =>

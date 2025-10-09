@@ -1,3 +1,6 @@
+%%
+Copyright (c) 2025 American Republic Wiki
+%%
 <%*
 let calloutDir = "Public Personal Notes/Templates/Callouts"; 
 

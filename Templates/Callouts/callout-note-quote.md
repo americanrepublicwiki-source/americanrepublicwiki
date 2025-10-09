@@ -1,3 +1,6 @@
+%%
+Copyright (c) 2025 American Republic Wiki
+%%
 <%*
 const quote = await tp.system.prompt("Enter the quote text:");
 
