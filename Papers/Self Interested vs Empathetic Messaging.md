@@ -15,4 +15,4 @@ There are 2 messaging styles that this paper is going to walk through:
 
 ![[Dictionary/Self Interested Messaging|Self Interested Messaging]]
 
-Additional insight into this. 
+Additional insight into this

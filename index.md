@@ -4,4 +4,4 @@ description: ""
 publish: true
 ---
 
-Place holder
+# About the American Republic Wiki
