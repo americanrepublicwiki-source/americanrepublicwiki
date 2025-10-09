@@ -1,6 +1,5 @@
 ---
 links:
 aliases:
+  - Republican Party
 ---
-## Overview
-
