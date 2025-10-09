@@ -1,4 +1,6 @@
 .obsidian/*.json
 .DS_Store
-quartz/
 .devcontainer/*.json
+
+# Plugin Files
+.obsidian/plugins/obsidian-git/data.json
