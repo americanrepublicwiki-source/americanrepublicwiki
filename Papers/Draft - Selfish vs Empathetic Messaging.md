@@ -7,10 +7,8 @@ Copyright (c) 2025 American Republic Wiki
 %%
 # TL:DR
 The [[Orgs/Democratic Party/Overview|Democratic Party]] needs to completely switch to [[Dictionary/Selfish Messaging|Selfish Messaging]] over [[Dictionary/Empathetic Messaging|Empathetic Messaging]] for all groups it wants to be members, majority or minority. 
-
 # Claim
 The [[Orgs/Democratic Party/Overview|Democratic Party]] over the past several decades has prioritized [[Dictionary/Empathetic Messaging|Empathetic Messaging]] for large majority populations such as White Americans and Men. This has recently been exploited by the [[Orgs/Republican Party/Overview|Republican Party]] and to a greater extent [[Orgs/MAGA/Overview|MAGA]]. This is been a major messaging failure and the reasoning will be detailed below.
-
 # Definitions
 There are 2 messaging styles that this paper is going to walk through:
 - [[Dictionary/Selfish Messaging|Selfish Messaging]]
@@ -20,7 +18,7 @@ There are 2 messaging styles that this paper is going to walk through:
 
 ![[Dictionary/Empathetic Messaging|Empathetic Messaging]]
 
-This is addition readings are described in [Modes_of_persuasion](https://en.wikipedia.org/wiki/Modes_of_persuasion). The argument set forth is the need to decompose `Pathos` into separate messaging styles [[Dictionary/Selfish Messaging|Selfish Messaging]] and [[Dictionary/Empathetic Messaging|Empathetic Messaging]].
+Additional ideas are described in [Modes_of_persuasion](https://en.wikipedia.org/wiki/Modes_of_persuasion). The argument set forth is the need to decompose `Pathos` into separate messaging styles [[Dictionary/Selfish Messaging|Selfish Messaging]] and [[Dictionary/Empathetic Messaging|Empathetic Messaging]].
 # Why does this matter?
 From 1981 to 2016, [[Orgs/Republican Party/Overview|Republican Party]] exclusively appealed to white voters via [[Dictionary/Selfish Messaging|Selfish Messaging]], typically through fear of change and their environment worsening for them. From 2016 - 2025 [[Orgs/MAGA/Overview|MAGA]] used this and additionally undermined the [[Dictionary/Empathetic Messaging|Empathetic Messaging]] used by the [[Orgs/Democratic Party/Overview|Democratic Party]] to pull minority voters. Examples being:
 - They will higher taxes on you!
