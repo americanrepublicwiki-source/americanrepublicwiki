@@ -2,7 +2,7 @@
 links:
   - https://guides.loc.gov/federalist-papers/text-1-10#s-lg-box-wrapper-25493270
 author:
-  - "[[People/Alexander Hamilton/Overview|Alexander Hamilton]]"
+  - "[[People/Alexander Hamilton/Alexander Hamilton|Alexander Hamilton]]"
 ---
 %%
 Copyright (c) 2025 American Republic Wiki
