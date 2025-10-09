@@ -26,7 +26,8 @@ jobs:
           recursive: true
       - name: Docker build
         run: |
-          git clone -b publish-branch https://github.com/americanrepublicwiki-source/americanrepublicwiki.git content/americanrepublicwiki
+          git switch publish-branch
+          git clone https://github.com/americanrepublicwiki-source/americanrepublicwiki.git content/americanrepublicwiki
           docker compose run build_docs
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
