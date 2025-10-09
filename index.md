@@ -1,7 +1,6 @@
 ---
-title: "American Republic Wiki"
+title: American Republic Wiki
 description: ""
-publish: true
 ---
 
 # About the American Republic Wiki
