@@ -1,3 +1,6 @@
+%%
+Copyright (c) 2025 American Republic Wiki
+%%
 To quote [[People/Alexander Hamilton/Overview|Alexander Hamilton]]:
 ![[People/Alexander Hamilton/Quotes/Federalist No 1 - Paragraph 4|Federalist No 1 - Paragraph 4]]
 

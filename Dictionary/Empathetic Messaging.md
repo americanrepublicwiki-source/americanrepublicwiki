@@ -1,3 +1,6 @@
+%%
+Copyright (c) 2025 American Republic Wiki
+%%
 Versions of this messaging look like:
 - "Isn't that horrible and upsetting?"
 - "These policies/actions against this other group of people is cruel!"

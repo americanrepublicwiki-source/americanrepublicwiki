@@ -2,6 +2,9 @@
 created: 2025-10-08T21:32:00
 authors: americanrepublicwiki-source
 ---
+%%
+Copyright (c) 2025 American Republic Wiki
+%%
 # TL:DR
 The [[Orgs/Democratic Party/Overview|Democratic Party]] needs to completely switch to [[Dictionary/Selfish Messaging|Selfish Messaging]] over [[Dictionary/Empathetic Messaging|Empathetic Messaging]] for all groups it wants to be members, majority or minority. 
 

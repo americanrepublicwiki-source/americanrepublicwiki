@@ -1,8 +1,9 @@
 ---
-event/type:
-  - political
 publish: "false"
 ---
+%%
+Copyright (c) 2025 American Republic Wiki
+%%
 # Summary
 - *Short summary*
 

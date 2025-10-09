@@ -1,2 +1,5 @@
+%%
+Copyright (c) 2025 American Republic Wiki
+%%
 1. UN Agency Name, "[Report Name](https://publish.obsidian.md/#)" - Published Date.
 	1. UN Human Rights Council, "[Report of the detailed findings of the independent international Commission of inquiry on the protests in the Occupied Palestinian Territory](https://www.ohchr.org/sites/default/files/HRBodies/HRC/RegularSessions/Session40/Documents/A_HRC_40_74_CRP2.pdf)" - 2019-03-18
