@@ -1,0 +1,7 @@
+{
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "index"
+  ]
+}

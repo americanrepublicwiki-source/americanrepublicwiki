@@ -1,6 +1,18 @@
+# Obsidian Files
 .obsidian/*.json
+!.obsidian/types.json
+!.obsidian/templates.json
+!.obsidian/community-plugins.json
+!.obsidian/app.json
+!.obsidian/core-plugins.json
+
+# Obsidian Git Plugin Files
+.obsidian/plugins/obsidian-git/data.json
+
+# OS Files
 .DS_Store
+
+# Dev Container Files
 .devcontainer/*.json
 
 # Plugin Files
-.obsidian/plugins/obsidian-git/data.json
