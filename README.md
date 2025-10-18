@@ -20,11 +20,14 @@ Obsidian and Quartz supports useful Graphs API and linking.
 `Terms`
 - A dictionary of terms, generally single files and are intended to be embedded in larger topics. 
 - If these don't have a grouping Folder then they can be dumped at the base of the `Terms`
+
 `Orgs`
 - Groups of multiple people. This can range from Parties, Advocacy Groups, Extremist Groups, all the way to whole nations from the past, fictional, or current. 
 - These are complex notes of format: *[[Templates/Org Template/Org Name Template|Org Name/Org Name Template]] plus additional notes*
+
 `Papers`
 - Opinionated articles, however must have evidentiary backing supported by the other sections of the wiki.
+
 `People`
 - Historical, or current public figures. 
 - These are complex notes of format: *[[Templates/Person Template/Person Name Template|Person Name/Person Name Template]] plus additional notes*
