@@ -11,12 +11,12 @@ The [[Orgs/Democratic Party/Democratic Party|Democratic Party]] needs to complet
 The [[Orgs/Democratic Party/Democratic Party|Democratic Party]] over the past several decades has prioritized [[Terms/Empathetic Messaging|Empathetic Messaging]] for large majority populations such as White Americans and Men. This has recently been exploited by the [[Orgs/Republican Party/Republican Party|Republican Party]] and to a greater extent [[Orgs/MAGA/MAGA|MAGA]]. This is been a major messaging failure and the reasoning will be detailed below.
 # Definitions
 There are 2 messaging styles that this paper is going to walk through:
-- [[Terms/Selfish Messaging|Selfish Messaging]]
-- [[Terms/Empathetic Messaging|Empathetic Messaging]]
+![[Terms/Selfish Messaging#^9e1fd7|Selfish Messaging]]
+![[Terms/Empathetic Messaging#^362962|Empathetic Messaging]]
 
-![[Terms/Selfish Messaging|Selfish Messaging]]
+![[Terms/Selfish Messaging#Selfish Messaging Details]]
 
-![[Terms/Empathetic Messaging|Empathetic Messaging]]
+![[Terms/Empathetic Messaging#Empathetic Messaging Details]]
 
 Additional ideas are described in [Modes_of_persuasion](https://en.wikipedia.org/wiki/Modes_of_persuasion). The argument set forth is the need to decompose `Pathos` into separate messaging styles [[Terms/Selfish Messaging|Selfish Messaging]] and [[Terms/Empathetic Messaging|Empathetic Messaging]].
 # Why does this matter?
