@@ -12,7 +12,7 @@ description: ""
 ## Goals
 Biggest argument against this is why have a wiki when we have orgs like [[Orgs/Politifact/Politifact|Politifact]]? Prior to [[Orgs/Trump Admin 2016/Trump Admin 2016|Trump Admin 2016]] that was enough since the news cycle typically stayed on a single topic with a few points for several weeks. Additionally, being perceived "neutral / unbiased" was a normal and desirable property of a news / fact checking org.
 
-However in the 2025 political landscape has changed, and the amount of 
+However in the 2025 political landscape has changed primary due to the rhetoric promoted by [[Orgs/MAGA/MAGA|MAGA]]. The amount of fake facts and statements is a daily occurrence and 
 
 ## Document Structure
 Obsidian and Quartz supports useful Graphs API and linking.
