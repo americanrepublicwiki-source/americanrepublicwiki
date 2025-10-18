@@ -9,6 +9,11 @@ description: ""
 
 >[!warning] The copyright for now is a restrictive Creative Commons Attribution 4.0 International license. Reference [[LICENSE.md]] for more info. This may change in the future, however it is less disruptive to start restrictive -> open up.
 
+## Goals
+Biggest argument against this is why have a wiki when we have orgs like [[Orgs/Politifact/Politifact|Politifact]]? Prior to [[Orgs/Trump Admin 2016/Trump Admin 2016|Trump Admin 2016]] that was enough since the news cycle typically stayed on a single topic with a few points for several weeks. Additionally, being perceived "neutral / unbiased" was a normal and desirable property of a news / fact checking org.
+
+However in the 2025 political landscape has changed, and the amount of 
+
 ## Document Structure
 Obsidian and Quartz supports useful Graphs API and linking.
 

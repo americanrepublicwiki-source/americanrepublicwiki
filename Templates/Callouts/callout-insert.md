@@ -1,13 +1,5 @@
-%%
-Copyright (c) 2025 American Republic Wiki
-%%
 <%*
-let calloutDir = "Public Personal Notes/Templates/Callouts"; 
-
-// Check if 'Public Notes/Templates/Callouts' exists; if not, use 'Templates/Callouts' instead
-if (!app.vault.getAbstractFileByPath(calloutDir)) {
-  calloutDir = "Templates/Callouts";
-}
+let calloutDir = "Templates/Callouts"; 
 
 const calloutFiles = app.vault.getMarkdownFiles() .filter(file => file.path.startsWith(calloutDir) && file.basename !== "callout-insert");
 

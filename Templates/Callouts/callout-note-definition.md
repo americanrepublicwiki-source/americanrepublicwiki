@@ -1,6 +1,4 @@
-%%
-Copyright (c) 2025 American Republic Wiki
-%%
+
 <%*
 const generated_note_dataview = 
 "\n" + 
