@@ -35,8 +35,8 @@
   --callout-icon: lucide-heart;
 }
 
-.callout[data-callout="note-followup"] {
-  --callout-color: 255, 223, 186; /* Light Peach for follow-ups */
+.callout[data-callout="note-todo"] {
+  --callout-color: 255, 223, 186; /* Light Peach for todos */
   --callout-icon: lucide-clock;
 }
 
