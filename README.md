@@ -20,7 +20,7 @@ This Wiki's goal is to leverage true information, likely mirroring [Wikipedia](h
 Obsidian and Quartz supports useful Graphs API and linking.
 
 `Terms`
-- A dictionary of terms, generally single files and are intended to be embedded in larger topics. 
+- A dictionary of terms, generally single files and are intended to be embedded in larger topics. These are intended to be atomic (simple) files used to link concepts.
 - If these don't have a grouping Folder then they can be dumped at the base of the `Terms`
 
 `Orgs`
