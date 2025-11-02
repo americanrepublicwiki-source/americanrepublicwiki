@@ -16,7 +16,11 @@ There are 2 messaging styles that this paper is going to walk through:
 
 Additional ideas are described in [Modes_of_persuasion](https://en.wikipedia.org/wiki/Modes_of_persuasion). The argument set forth is the need to decompose `Pathos` into separate messaging styles [[Terms/Selfish Messaging|Selfish Messaging]] and [[Terms/Empathetic Messaging|Empathetic Messaging]].
 
-# Campaign Positions of [[Orgs/Democratic Party/Democratic Party|Democratic Party]]
+# Messaging of [[Orgs/Democratic Party/Democratic Party|Democratic Party]] and [[Orgs/Republican Party/Republican Party|Republican Party]]
+Below follows the messaging of both parties since the [[Administrations/Johnson Administration 1963/Johnson Administration 1963|Johnson Administration 1963]].
+
+# Campaign Positions of [[Orgs/Democratic Party/Democratic Party|Democratic Party]] Candidates
+
 
 
 # Why does this matter?
