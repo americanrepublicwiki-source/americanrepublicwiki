@@ -10,9 +10,11 @@ description: ""
 >[!warning] The copyright for now is a restrictive Creative Commons Attribution 4.0 International license. Reference [[LICENSE.md]] for more info. This may change in the future, however it is less disruptive to start restrictive -> open up.
 
 ## Goals
-Biggest argument against this is: "Why have a wiki when we have orgs like [[Orgs/Politifact/Politifact|Politifact]]?" Prior to [[Orgs/Trump Administration 2016/Trump Administration 2016|Trump Administration 2016]] that was enough since the news cycle typically stayed on a single topic with a few points for several weeks. Additionally, being perceived "neutral / unbiased" was a normal and desirable property of a news / fact checking org.
+Biggest argument against this is: "Why have a wiki when we have orgs like [[Orgs/Politifact/Politifact|Politifact]] and [Wikipedia](https://www.wikipedia.org/)?" Prior to [[Orgs/Trump Administration 2016/Trump Administration 2016|Trump Administration 2016]] that was enough since the news cycle typically stayed on a single topic with a few points for several weeks. Additionally, being perceived "neutral / unbiased" was a normal and desirable property of a news / fact checking org.
 
 However, the 2025 political landscape has changed primarily due to the rhetoric promoted by [[Orgs/MAGA/MAGA|MAGA]] and a 6 decade restructuring of the [[Orgs/Republican Party/Republican Party|Republican Party]]. The amount of fake facts and statements is a daily occurrence. To combat this, [[Terms/Liberalism|liberal]] people, Conservatively or Socially [[Terms/Liberalism|liberal]], need a way to take true individual facts, and combine them into effective rhetoric. 
+
+This Wiki's goal is to leverage true information, likely mirroring [Wikipedia](https://www.wikipedia.org/) information, while tying together those facts into cohesive rhetoric that be be used by [[Terms/Liberalism|Liberal]] (Conservative or Progressive) proponents.
 
 ## Document Structure
 Obsidian and Quartz supports useful Graphs API and linking.
