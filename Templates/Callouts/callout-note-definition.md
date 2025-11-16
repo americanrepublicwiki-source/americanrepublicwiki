@@ -3,7 +3,7 @@ const baseDir = "Terms"
 const definitionTemplateDir = "Templates/Callout Templates/Note Terms Template";
 const definitionTemplateFile = "/Note Terms Template.md";
 const subDefinitionTemplateDir = "/_Terms/";
-const subDefinitionTemplateFile = "/_Definitions/term-template.md";
+const subDefinitionTemplateFile = "/_Terms/term-template.md";
 const dicts = [baseDir];
 
 function stripPrefix(path) {

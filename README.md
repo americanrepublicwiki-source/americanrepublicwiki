@@ -32,4 +32,4 @@ Obsidian and Quartz supports useful Graphs API and linking.
 
 `People`
 - Historical, or current public figures. 
-- These are complex notes of format: *[[Templates/Person Template/Person Name Template|Person Name/Person Name Template]] plus additional notes*
+- These are complex notes of format: *[[Templates/Callout Templates/Note Person Template/Note Person Template|Person Name/Person Name Template]] plus additional notes*
