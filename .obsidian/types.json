@@ -6,6 +6,8 @@
     "links": "multitext",
     "event/type": "datetime",
     "created": "date",
-    "author": "multitext"
+    "author": "multitext",
+    "earliest-date": "datetime",
+    "earliest-date-quoted": "datetime"
   }
 }
