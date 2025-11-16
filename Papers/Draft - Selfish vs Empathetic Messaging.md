@@ -37,3 +37,6 @@ It is important to note:
 > Both the [[Orgs/Republican Party/Republican Party|Republican Party]] and [[Orgs/Democratic Party/Democratic Party|Democratic Party]] know how to use [[Terms/Selfish Messaging|Selfish Messaging]], however they are very selective with the groups this applies to, and the [[Orgs/Democratic Party/Democratic Party|Democratic Party]] has been weakening on this front.
 
 The [[Orgs/Democratic Party/Democratic Party|Democratic Party]] uses [[Terms/Empathetic Messaging|Empathetic Messaging]] messaging for trying to pull in white voters, and male voters. It uses [[Terms/Selfish Messaging|Selfish Messaging]] for the black community and LGBT community.
+
+
+
