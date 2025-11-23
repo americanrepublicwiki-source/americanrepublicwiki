@@ -8,6 +8,7 @@
     "created": "date",
     "author": "multitext",
     "earliest-date": "datetime",
-    "earliest-date-quoted": "datetime"
+    "earliest-date-quoted": "datetime",
+    "when": "datetime"
   }
 }
