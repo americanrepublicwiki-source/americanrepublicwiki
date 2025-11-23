@@ -1,7 +1,7 @@
 <%*
 const baseDir = "People"
-const definitionTemplateDir = "Templates/Callout Templates/Note Person Template";
-const definitionTemplateFile = "/Note Person Template.md";
+const definitionTemplateDir = "Templates/Callout Templates/Note Quotable Template";
+const definitionTemplateFile = "/Note Quotable Template.md";
 const subDefinitionTemplateDir = "/Quotes/";
 const subDefinitionTemplateFile = "/Quotes/quote-template.md";
 const dicts = [baseDir];
