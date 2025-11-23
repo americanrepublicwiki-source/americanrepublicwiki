@@ -1,37 +1,20 @@
 <%*
-const baseDir = "People"
 const definitionTemplateDir = "Templates/Callout Templates/Note Quotable Template";
 const definitionTemplateFile = "/Note Quotable Template.md";
 const subDefinitionTemplateDir = "/Quotes/";
 const subDefinitionTemplateFile = "/Quotes/quote-template.md";
-const dicts = [baseDir];
 
 function stripPrefix(path) {
 	if (path.endsWith('.md')) {
 		path = path.slice(0,-3)
 	}
-
-  for (let dir of dicts) {
-    if (path.startsWith(dir)) {
-      return path.slice(dir.length + 1); // Strip the prefix
-    }
-  }
   return path; // No match
 }
 
-function get_path(path) {
-	return app.vault.getAbstractFileByPath(path);
-}
+function get_path(path) { return app.vault.getAbstractFileByPath(path); }
+function is_valid(file) { return file.name != "Quotes"; }
 
-function is_valid(dir, file) {
-	return file.path.startsWith(dir) 
-		&& file.path != dir
-		&& file.name != "Quotes";
-}
-
-const allDirs = app.vault.getAllFolders().filter(
-	file => dicts.some(dir => is_valid(dir,file))
-);
+const allDirs = app.vault.getAllFolders().filter(file => is_valid(file));
 
 let definitionName = await tp.system.suggester(
 	stripPrefix, 
