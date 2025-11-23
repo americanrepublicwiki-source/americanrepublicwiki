@@ -151,3 +151,7 @@
   --callout-icon: lucide-thumbs-up;
 }
 
+.callout[data-callout="note-timeline"] {
+  --callout-color: 112, 128, 144; /* Slate tone for chronological structure */
+  --callout-icon: lucide-calendar-range; /* Perfect for timelines */
+}
