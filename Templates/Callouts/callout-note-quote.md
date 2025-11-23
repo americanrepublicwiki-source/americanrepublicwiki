@@ -82,6 +82,14 @@ if (definitionPath === null) {
 		new_definition
 	);
 } else {
+    quotes_path_string = definitionPath.path + subDefinitionTemplateDir.slice(0,-1);
+	quotes_path = get_path(quotes_path_string);
+	console.log("quotes path: ", quotes_path);
+	console.log("quotes_path_string: ", quotes_path_string);
+	if (quotes_path === null) {
+		console.log("Creating: ", quotes_path_string);
+		await app.vault.createFolder(quotes_path_string);
+	}
 	new_definition = definitionPath.path 
 		+ subDefinitionTemplateDir 
 		+ definitionPath.name 
