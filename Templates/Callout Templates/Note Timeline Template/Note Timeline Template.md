@@ -3,7 +3,7 @@ Copyright (c) 2025 American Republic Wiki
 %%
 ```dataviewjs
 const here = dv.current().file.folder;                // e.g. "test"
-const updatesFolder = `${here}/_Terms`;     
+const updatesFolder = `${here}/_Timelines`;     
 
 // Do NOT use a string query; filter by exact folder
 let pages = dv.pages()
