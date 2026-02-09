@@ -1,11 +1,10 @@
 ---
+# Copyright (c) 2025 American Republic Wiki
 tags:
-  - note/term
+  - note/timeline
 links:
+when:
 ---
-%%
-Copyright (c) 2025 American Republic Wiki
-%%
 
 **<% file_title %>**: One line Description <% tp.file.cursor() %>
 ###### **<% file_title %> Details

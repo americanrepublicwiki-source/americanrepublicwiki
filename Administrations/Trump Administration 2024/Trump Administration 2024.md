@@ -1,6 +1,5 @@
 ---
 # Copyright (c) 2025 American Republic Wiki
-created:
-authors:
+links:
+aliases:
 ---
-# TL:DR

@@ -6,6 +6,8 @@ Creative Commons Attribution 4.0 International license
 All files should have the copyright located in them:
     Copyright (c) 2025 American Republic Wiki
 
+In some templates, the copyright is located in the yaml header.
+
 Note for now, contributions will not be accepted, however the intention is to open up contributions once the wiki stabilizes.
 
 All videos, articles, and any other media or entertainment that references any text in this wiki must include in their descriptions:
