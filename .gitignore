@@ -9,6 +9,7 @@
 
 # Obsidian Git Plugin Files
 .obsidian/plugins/obsidian-git/data.json
+.obsidian/plugins/folder-notes/data.json
 
 # OS Files
 .DS_Store
